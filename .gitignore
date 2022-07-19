@@ -4,4 +4,8 @@
 Thumbs.db
 .DS_Store
 .idea
-
+# Project exclude paths
+/target/
+/purpose/
+/shelf/
+/workspace.xml
