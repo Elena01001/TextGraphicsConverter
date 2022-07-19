@@ -1,2 +1,7 @@
-out
+/tmp/
+*_old
+*_backup
+Thumbs.db
+.DS_Store
 .idea
+target
